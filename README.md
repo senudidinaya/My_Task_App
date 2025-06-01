@@ -87,6 +87,7 @@ This project was primarily built as a learning exercise. However, if you find an
 ## Contact
 
 Senudi Rupasinghe - senudi.d.rupasinghe@gmail.com 📧
-Project Link: [[https://github.com/YourUsername/MyTasksApp](https://github.com/YourUsername/MyTasksApp)](https://github.com/senudidinaya/My_Task_App) 🔗
+
+Project Link: https://github.com/senudidinaya/My_Task_App 🔗
 
 ---
