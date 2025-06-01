@@ -1,6 +1,6 @@
 # My Tasks App 📝
 
-**A lightweight and intuitive Android task manager built with Kotlin and SQLite. 🚀**
+**A lightweight and Android task manager built with Kotlin and SQLite. 🚀**
 
 ## Overview
 
